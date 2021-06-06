@@ -316,7 +316,7 @@ nav ul li{
     font-family:lato;
 }
 footer{
-    width: 95vw;
+    width: 100%;
     background: blue;
     margin-top: 500px 0;
     color: #fff;
